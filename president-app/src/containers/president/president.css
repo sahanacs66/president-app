@@ -1,0 +1,16 @@
+.Table-header {
+    background-color: #61dafb;
+    color: white;
+    padding: 20px;
+    width: 80px;
+    text-align: left;
+    border:5px;
+
+}
+
+
+.president-app{
+    padding-top:25px;
+    text-align:center;
+    margin-left:500px;
+}
